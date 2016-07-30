@@ -1,5 +1,7 @@
 # Welcome to the ReadMe for this Project
 
+TCCamp is fun so far!
+
 This ReadMe was authored in Markdown, specifically GitHub Flavored Markdown, which includes syntax highlighting, task lists, tables, and @mentions. (@Name, did I miss anything?) 
 
 Emoji are also supported in Markdown! :thumbsup: :shipit:
@@ -7,7 +9,7 @@ See the [Emoji Cheat Sheet](http:http://emoji-cheat-sheet.com) for the complete 
 
 You can learn more about Markdown here - and you can also create a link automatically like this - https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf 
 
-## More about Markdown
+## All about Markdown
 
 First, the simple stuff: *This is Italic* **This is Bold**
 
